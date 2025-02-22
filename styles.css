@@ -5,20 +5,7 @@ body{
     background-color: brown;
 
 }
-.fundo_line{
 
-        border: 2px solid white;
-        border-radius: 2px;
-        background-color: red;
-        width: 400px;
-        height: 550px;
-        position: absolute;
-        left: 400px;
-        top: -10px;
-        background-repeat: no-repeat;
-        background-position: center top;
-        text-align: center;
-}
 
 @media screen and (max-width: 768px){
 
