@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+    background-image: url("Imagens/Fundo\ \(1\).png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1366px;
+}
+@media screen and(max-width: 768px) {
+    .fundo{
+        width: 1200px;
+        height: 1200px;
+    }
+    
+}
