@@ -2,7 +2,7 @@
 
 
 body{
-    background-color: brown;
+    background-color: aqua;
 
 }
 
@@ -12,7 +12,7 @@ body{
     .fundo_line{
         border: 2px solid white;
         border-radius: 2px;
-        background-color: blue;
+        background-color: aquamarine;
         width: 200px;
         height: 550px;
         position: absolute;
