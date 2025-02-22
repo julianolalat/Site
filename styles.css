@@ -25,14 +25,13 @@ body{
     .fundo_line{
         border: 2px solid white;
         border-radius: 2px;
-        background-color: red;
+        background-color: blue;
         width: 200px;
         height: 550px;
         position: absolute;
-        left: 100px;
+        left: 60px;
         top: -10px;
         background-repeat: no-repeat;
-        background-position: center top;
         text-align: center;
     }
     
