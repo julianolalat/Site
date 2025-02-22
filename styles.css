@@ -1,13 +1,11 @@
 @charset "UTF-8";
 
-
 body{
-    background-color: aqua;
+        background-image: url("Imagens/space.jpg");
 
 }
 
-
-@media screen and (min-width: 1200px){
+@media screen and (max-width: 768px){
 
     .fundo_line{
         border: 2px solid white;
