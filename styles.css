@@ -20,7 +20,7 @@ body{
         text-align: center;
 }
 
-@media screen and (min-width: 992px){
+@media screen and (max-width: 992px){
 
     .fundo_line{
         border: 2px solid white;
