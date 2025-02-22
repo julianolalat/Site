@@ -5,8 +5,7 @@ body{
 }
 @media screen and(max-width: 768px) {
     .fundo{
-        width: 1200px;
-        height: 1200px;
+        
     }
     
 }
