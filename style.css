@@ -7,7 +7,14 @@ body{
 @media (max-width: 768px) {
     
     .gifspequeno{
-         text-align: center;
+        text-align: center;
+        background-image: url("Imagens/layout_01.jpg");
+        background-size: 300px;
+        height: 800px;
+        background-repeat: no-repeat;
+        text-align: center;
+        background-position: center top;
+
     }
     .gifsgrande{
         display: none;
@@ -19,7 +26,16 @@ body{
         display: none;
     }
     .gifsgrande{
+        
+        background-image: url("Imagens/layout_01.jpg");
+        background-size: 600px;
+        height: 800px;
+        background-repeat: no-repeat;
         text-align: center;
+        background-position: center top;
+        
+        
     }
+    
     
 }
