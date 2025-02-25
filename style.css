@@ -6,26 +6,27 @@ body{
 }
 @media (max-width: 768px) {
     
-    .gifspequeno{
+    .pequeno{
         text-align: center;
         background-image: url("Imagens/layout_01.jpg");
-        background-size: 300px;
-        height: 800px;
+        background-size: 350px;
+        height: 900px;
         background-repeat: no-repeat;
         text-align: center;
-        background-position: center top;
+        background-position: center top -10px;
 
     }
-    .gifsgrande{
+    .grande{
         display: none;
     }
     
+    
 }
 @media (min-width: 768px) and (max-width: 2000px){
-    .gifspequeno{
+    .pequeno{
         display: none;
     }
-    .gifsgrande{
+    .grande{
         
         background-image: url("Imagens/layout_01.jpg");
         background-size: 600px;
