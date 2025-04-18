@@ -9,7 +9,7 @@ body{
     
     
 }
-@media (max-width: 380px) {
+@media (min-width: 100px) and (max-width: 380px){ 
     
     .pequeno{
         
